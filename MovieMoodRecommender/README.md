@@ -23,4 +23,4 @@ This is a **school project** created for educational purposes to learn:
 - JSON library (for API responses)
 
 ## 🎓 Educational Purpose
-This project is for **learning purposes only** as part of my programming studies.
+This project is for **learning purposes only** as part of my first year at kauno kolegija software system .
