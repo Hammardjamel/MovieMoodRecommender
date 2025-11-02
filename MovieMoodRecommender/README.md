@@ -15,11 +15,7 @@ This is a **school project** created for educational purposes to learn:
 - Personalized movie recommendations
 - Console-based user interface
 
-## 🛠️ Setup
-1. Get TMDB API key from https://www.themoviedb.org/settings/api
-2. Replace `YOUR_API_KEY` in `APIClient.java`
-3. Compile: `javac -d bin src/**/*.java`
-4. Run: `java -cp bin app.Main`
+
 
 ## 📋 Requirements
 - Java 8+
