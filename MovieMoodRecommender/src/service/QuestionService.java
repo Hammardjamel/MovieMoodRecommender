@@ -19,27 +19,27 @@ public class QuestionService {
 
         questionList.add(new Question(
             "🌤️ What’s your current mood?",
-            List.of("💪 Motivated", "😌 Relaxed", "🎯 Focused", "🌍 Adventurous")
+            List.of("Motivated", "Relaxed", "Focused", "Adventurous")
         ));
 
         questionList.add(new Question(
             "📖 What kind of story do you want to experience?",
-            List.of("🌟 Inspiring", "🌀 Weird", "💔 Emotional", "😂 Funny")
+            List.of("Inspiring", "Weird", "Emotional", "Funny")
         ));
 
         questionList.add(new Question(
             "⏱️ Do you prefer something fast-paced or slow and deep?",
-            List.of("⚡ Fast-paced", "🌊 Slow and emotional", "⚖️ Balanced")
+            List.of("Fast-paced", "Slow and emotional", "Balanced")
         ));
 
         questionList.add(new Question(
             "🎶 What type of background vibe do you enjoy?",
-            List.of("🔥 Energetic", "🌙 Calm", "🌅 Hopeful", "🌧️ Dark")
+            List.of("Energetic", "Calm", "Hopeful", "Dark")
         ));
 
         questionList.add(new Question(
             "🧭 What’s your ideal theme for today’s adventure?",
-            List.of("🚀 Future", "🏰 Fantasy", "🕵️ Mystery", "💘 Romance")
+            List.of("Future", "Fantasy", "Mystery", "Romance")
         ));
 
         return questionList;
