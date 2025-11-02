@@ -15,7 +15,11 @@ This is a **school project** created for educational purposes to learn:
 - Personalized movie recommendations
 - Console-based user interface
 
-
+## 🛠️ Setup
+1. Get TMDB API key from https://www.themoviedb.org/settings/api
+2. Replace `YOUR_API_KEY` in `APIClient.java`
+3. Compile: `javac -d bin src/**/*.java`
+4. Run: `java -cp bin app.Main`
 
 ## 📋 Requirements
 - Java 8+
@@ -23,4 +27,4 @@ This is a **school project** created for educational purposes to learn:
 - JSON library (for API responses)
 
 ## 🎓 Educational Purpose
-This project is for **learning purposes only** as part of my first year at kauno kolegija software system .
+This project is for **learning purposes only** as part of my programming studies.
